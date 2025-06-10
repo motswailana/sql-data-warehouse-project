@@ -16,8 +16,11 @@ Gold Layer: Business-ready star schema models optimized for analytics
 This implementation demonstrates:
 
 ✅ End-to-end data pipeline from source systems to analytical insights
+
 ✅ SQL-based ETL processes with documented transformation logic
+
 ✅ Dimensional modeling following the star schema best practices
+
 ✅ Actionable reporting on key business metrics
 
 This project involves:
