@@ -57,15 +57,21 @@ If you would like more details, please refer to .
 Repository Structure
 
 data-warehouse-project/
+
 ├── datasets/               # Source CSV files (ERP + CRM systems)
 
 ├── docs/                   # Architecture diagrams & documentation
+
 │   ├── data_models.drawio  # Star schema diagram
+
 │   └── data_catalog.md     # Dataset documentation
 
 ├── scripts/                # SQL implementation
+
 │   ├── bronze/             # Raw data ingestion
-│   ├── silver/             # Transformation logic  
+
+│   ├── silver/             # Transformation logic 
+
 │   └── gold/               # Analytical models
 
 └── tests/                  # Data quality checks
