@@ -18,7 +18,7 @@ CREATE TABLE bronze.crm_cust_info(
 	cst_lastname NVARCHAR(50),
 	cst_marital_status NVARCHAR(50),
 	cst_gndr NVARCHAR(50),
-	cst_create_date DATE,
+	cst_create_date DATE
 );
 IF OBJECT_ID ('bronze.crm_prd_info','U') IS NOT NULL
 	DROP TABLE bronze.crm_prd_info;
@@ -42,7 +42,7 @@ CREATE TABLE bronze.crm_sales_details(
 	sls_due_dt INT,
 	sls_sales INT,
 	sls_quantity INT,
-	sls_price INT,
+	sls_price INT
 );
 IF OBJECT_ID ('bronze.erp_cust_az12','U') IS NOT NULL
 	DROP TABLE bronze.erp_cust_az12;
