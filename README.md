@@ -82,4 +82,4 @@ data-warehouse-project/
 📄 License
 This project is licensed under the MIT License.
 
-Note: This project was developed following a tutorial. The original tutorial concept was created by Baraa Khatib Salkini (YouTube: Data With Baraa).
+Note: Inspired by tutorial concepts from YT: Data With Baraa
