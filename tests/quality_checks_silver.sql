@@ -27,7 +27,5 @@ Response Protocol:
 
 Maintenance:
     Version: 1.1
-    Last Updated: 2023-11-15
-    Steward: Data Quality Team
 ===============================================================================
 */
