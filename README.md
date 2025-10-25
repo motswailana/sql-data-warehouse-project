@@ -1,7 +1,7 @@
 Data Warehouse and Analytics Project
 This repository showcases my implementation of a data warehousing and analytics solution, demonstrating skills in data engineering, ETL development, and analytical reporting. The project follows industry best practices for building a scalable data pipeline.
 
-🏗️ Data Architecture
+Data Architecture
 The solution implements a Medallion Architecture with three layers:
 
 https://drive.google.com/file/d/1G_KMDJ7t8dYA2rwWdj4nIxJ246owxJgi/view?usp=sharing
@@ -12,16 +12,16 @@ Silver Layer: Data cleansing, standardization, and quality checks
 
 Gold Layer: Business-ready star schema models optimized for analytics
 
-📖 Project Highlights
+Project Highlights
 This implementation demonstrates:
 
-✅ End-to-end data pipeline from source systems to analytical insights
+End-to-end data pipeline from source systems to analytical insights
 
-✅ SQL-based ETL processes with documented transformation logic
+SQL-based ETL processes with documented transformation logic
 
-✅ Dimensional modeling following the star schema best practices
+Dimensional modeling following the star schema best practices
 
-✅ Actionable reporting on key business metrics
+Actionable reporting on key business metrics
 
 This project involves:
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
@@ -29,7 +29,7 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-## 🚀 Project Requirements
+## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -55,7 +55,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-If you would like more details, please refer to .
+If you would like more details, please refer to
 
 Repository Structure
 
@@ -79,7 +79,7 @@ data-warehouse-project/
 
 └── tests/                  # Data quality checks
 
-📄 License
+License
 This project is licensed under the MIT License.
 
 Note: Inspired by tutorial concepts from YT: Data With Baraa
